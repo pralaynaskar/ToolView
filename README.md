@@ -32,7 +32,7 @@ To run ToolView on your local device, follow these steps:
 First, get a copy of the project code. If you're in an environment like Firebase Studio, you already have it. Otherwise, clone it from your source control.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/pralaynaskar/ToolView.git
 cd toolview
 ```
 
